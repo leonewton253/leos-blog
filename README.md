@@ -15,7 +15,7 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 ## 🔥 Features
 
-- [x] type-safe markdown
+- [x] type-safe markdown 
 - [x] super fast performance
 - [x] accessible (Keyboard/VoiceOver)
 - [x] responsive (mobile ~ desktops)
