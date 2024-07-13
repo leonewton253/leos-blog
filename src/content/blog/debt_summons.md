@@ -13,7 +13,7 @@ tags:
 description:
   Free legal template to respond to Debt lawsuit plus instructions for filing.
 ---
- <embed type="text/html" src="https://pdf.ac/Co4lH" width="1000" height="800"> 
+ <embed type="text/html" src="https://docs.google.com/document/d/14XQ0jFDelQxsY8DPRZAd4CMGU9oquPTnJyQJtao8RAo/edit?usp=sharing" width="1000" height="800"> 
  <iframe
   id="inlineFrameExample"
   title="Inline Frame Example"
@@ -22,7 +22,7 @@ description:
   src="/src/assets/debt_answer.html>
 </iframe>
 
-To respond to a debt lawsuit, follow these three steps. Make sure all paragraphs are addressed with deny and paragraph number. Make sure to use the sign button to sign above your full legal name above the printed name. You can also use PDFfiller to notarize the document for you!
+To respond to a debt lawsuit, follow these three steps. Make sure all paragraphs are addressed with deny and paragraph number. Make sure to include your Civil case number. If you need more paragraphs just copy and paste them below. Make sure to sign above your full legal name above the printed name. Edit the highlighted fields with your information,such as court name and state. 
 
 ### 1. Respond to every paragraph in the Complaint
 
