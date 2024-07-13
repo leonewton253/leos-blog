@@ -1,6 +1,6 @@
 ---
 author: Leo Newton
-pubDatetime: 
+pubDatetime: 2024-09-23T15:22:00Z
 modDatetime: 
 title: Template
 slug: template
