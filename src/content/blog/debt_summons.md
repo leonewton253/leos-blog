@@ -13,7 +13,7 @@ tags:
 description:
   Free legal template to respond to Debt lawsuit plus instructions for filing.
 ---
- <embed type="text/html" src="https://pdf.ac/2w6XzO" width="1000" height="800"> 
+ <embed type="text/html" src="https://pdf.ac/Co4lH" width="1000" height="800"> 
  <iframe
   id="inlineFrameExample"
   title="Inline Frame Example"
