@@ -22,7 +22,7 @@ description:
   src="/src/assets/debt_answer.html>
 </iframe>
 
-To respond to a debt lawsuit, follow these three steps:
+To respond to a debt lawsuit, follow these three steps. Make sure all paragraphs are addressed with deny and paragraph number. Make sure to use the sign button to sign above your full legal name above the printed name. You can also use PDFfiller to notarize the document for you!
 
 ### 1. Respond to every paragraph in the Complaint
 
