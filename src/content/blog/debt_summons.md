@@ -63,7 +63,7 @@ To file your Answer:
 
 The plaintiff's attorney's address will be in the Summons and Complaint. The court's address might not be listed in the Summons and could differ from the court's physical address found online.
 
-<embed class="pdf" src="/src/assets/MotionToCompelArbitrationPDF.pdf" width="800" height="500">
+<embed src="/src/assets/MotionToCompelArbitrationPDF.pdf" width="800" height="500">
 
 
 
