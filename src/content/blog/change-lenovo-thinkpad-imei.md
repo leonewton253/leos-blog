@@ -60,8 +60,7 @@ AT^NV=550,9,"08,1A,32,54,76,98,10,32,74"
 9. Confirm the IMEI was changed:
 AT GETIMEI should show the new IMEI
 
-<img src="/leonewton253/leos-blog/src/assets/images/lenovo-terminal-imei.jpg" alt="terminal with imei changed">
-
+![terminal with changed imei](@assets/images/lenovo-terminal-imei.jpg)
 
 ## Sources
 https://techship.com/support/faq/how-to-send-at-commands-through-modem-manager/
