@@ -24,7 +24,7 @@ description:
 
 To respond to a debt lawsuit, follow these three steps. Make sure all paragraphs are addressed with deny and paragraph number. Make sure to include your Civil case number. If you need more paragraphs just copy and paste them below. Make sure to sign above your full legal name above the printed name. Edit the highlighted fields with your information,such as court name and state. 
 
-### 1. Respond to every paragraph in the Complaint
+### 1. Respond to every paragraph in the Complaintzzz
 
 The Complaint contains several numbered paragraphs detailing the lawsuit against you. For debt collection cases, there are usually at least 5 paragraphs. Read each paragraph and decide how to respond in one of three ways:
 
